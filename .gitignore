@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache
+venv
+.idea
+*_solution.py
+*_solution.tex
+.ipynb_checkpoints
