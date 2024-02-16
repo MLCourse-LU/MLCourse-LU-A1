@@ -11,7 +11,3 @@ This repository contains the exercises and questions for assignment 1.
         * If that doesn't work, you first have to install Jupyter notebook. You may also have to install other packages: `numpy`, `pandas`, `matplotlib`, `scikit-learn` and `pytest`.
 
 If you have difficulty installing a needed package, we recommend asking for help during one of the workgroup sessions.
-
-`!pip install (name of package)`
-
-The `!` will send the command out of the notebook, to the command line of Google Colab.
